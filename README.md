@@ -1,73 +1,83 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+# Hi there, I'm Satvik Gite! 👋
+
+Welcome to my GitHub profile! I'm a passionate **DevOps enthusiast** combining teamwork and strategy in the tech field. Currently, I'm on a journey to master the tools and practices that make software delivery faster, more reliable, and scalable. 🚀
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://github.com/satvikgite27" height="25" alt="github logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+### 🌟 About Me
+
+- 💻 **DevOps Intern**: Gaining hands-on experience in CI/CD pipelines, cloud platforms, and automation.
+- 🌱 **Currently Learning**: Docker, Kubernetes, Terraform, AWS, and monitoring tools like Prometheus and Grafana.
+- 🏆 **Fun Fact**: I'm a state-level kabaddi player who loves applying the discipline of sports to my tech projects.
+- 🔍 **Interests**: Cloud cost optimization, site reliability engineering, and creating seamless deployment workflows.
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=[YourGitHubUsername].profile&" />
-</div>
+### 🌐 Check Out My Portfolio
+
+✨ **[Visit My Portfolio Website](https://satvikgite.netlify.app/)** ✨
+
+Discover my projects, achievements, and more!
 
 ---
 
-<h1 align="center">Hey there 👋</h1>
+### 🛠️ Skills & Tools
+
+- **DevOps & Cloud**:
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+- **Programming**:
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
+
+- **Monitoring & Logging**:
+  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+  ![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+- **Version Control**:
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-<h3 align="left">👩‍💻 About Me</h3>
+### 📊 GitHub Stats
 
-<p align="left">I'm Satvik Gite from Pune <br><br>- 🔫 **DevOps Intern** working on cloud solutions <br>- 📚 Currently enhancing my knowledge in **AWS** and **DevOps tools** <br>- ✨ Passionate about automation and infrastructure scalability <br>- 💥 Exploring Kubernetes and CI/CD pipelines <br>- 🚀 Let's connect and collaborate!</p>
-
----
-
-<h3 align="left">🛠️ Skills & Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
-</div>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
-<h3 align="left">🔥 My Stats</h3>
+### 🏗️ My Projects
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=[YourGitHubUsername]&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+#### 1. **Cloud Cost Optimization with AWS** 🌩️
+   - **Overview**: Reduced cloud costs by 25% using AWS CloudWatch and Lambda functions.
+   - **Highlights**: Automated deletion of unused EBS Snapshots and notification system for owners.
+   - [View Project](#)
 
----
+#### 2. **CI/CD Pipeline for Web Apps** 🚀
+   - **Overview**: Built a CI/CD pipeline using Jenkins and Docker for automated deployment.
+   - **Highlights**: Improved deployment efficiency by 40%.
+   - [View Project](#)
 
-<h3 align="left">📡 Connect With Me</h3>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/[YourLinkedInUsername]/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/[YourGitHubUsername]" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://twitter.com/[YourTwitterUsername]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+#### 3. **Custom Monitoring Dashboard** 📈
+   - **Overview**: Created a real-time monitoring dashboard using Prometheus and Grafana.
+   - **Highlights**: Enhanced visibility into system performance and uptime.
+   - [View Project](#)
 
 ---
 
-### Thank you for visiting! 🚀
+### 📫 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedinprofile)
+- 🐦 [Twitter](https://twitter.com/yourtwitterhandle)
+- 📧 [Email Me](mailto:your.email@example.com)
+
+---
+
+Thank you for stopping by! Let's build something amazing together. 💡
