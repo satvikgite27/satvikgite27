@@ -75,8 +75,8 @@ Discover my projects, achievements, and more!
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn](www.linkedin.com/in/satvik-gite-b68269260)
-- 🐦 [Twitter](https://twitter.com/yourtwitterhandle)
-- 📧 [Email Me](mailto:your.email@example.com)
+- 🐦 [Resume](https://twitter.com/yourtwitterhandle)
+- 📧 [Email Me](satvikgite27@gmail.com)
 
 ---
 
