@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **DevOps enthusiast** combining t
 
 ### 🌟 About Me
 
-- 💻 **DevOps Intern**: Gaining hands-on experience in CI/CD pipelines, cloud platforms, and automation.
+- 💻 **DevOps**: Gaining hands-on experience in CI/CD pipelines, cloud platforms, and automation.
 - 🌱 **Currently Learning**: Docker, Kubernetes, Terraform, AWS, and monitoring tools like Prometheus and Grafana.
 - 🏆 **Fun Fact**: I'm a state-level kabaddi player who loves applying the discipline of sports to my tech projects.
 - 🔍 **Interests**: Cloud cost optimization, site reliability engineering, and creating seamless deployment workflows.
